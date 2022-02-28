@@ -1,0 +1,6 @@
+Organize
+Replace canvas with grid (div) -- done
+Replace Game.ShowBoard() -
+Try to find a more elegant Game.Move() implementation -- kinda..
+Implement proper controls -- as good as its going to be
+Add additional UI elements (score, best score, restart, new game...) -- done
